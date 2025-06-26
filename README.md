@@ -1,5 +1,6 @@
 # Winlay on Wear OS
-Winlay on Wear OS is a free and open-source app developed by A3X.
+**Winlay on Wear OS** is a free and open-source app developed by **A3X**.
+
 It is used to view event information directly from your smartwatch.
 
 ### Open Source
