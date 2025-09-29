@@ -1,3 +1,10 @@
+# ⚠️ Discontinued Project
+
+**This repository is discontinued and no longer maintained.**  
+The source code is still available for **archival and reference purposes**, and you are free to **fork the project**.  
+
+---
+
 # Winlay on Wear OS
 **Winlay on Wear OS** is a free and open-source app developed by **A3X**.
 
